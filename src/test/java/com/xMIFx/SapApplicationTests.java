@@ -1,5 +1,6 @@
 package com.xMIFx;
 
+import com.xMIFx.SAP.springConfigs.starter.SapApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
