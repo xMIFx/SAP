@@ -6,3 +6,9 @@ out
 gen
 mvnw
 mvnw.cmd
+ui/src/main/frontend/node_modules
+ui/src/main/webapp/resources/css
+ui/src/main/webapp/resources/fonts
+ui/src/main/webapp/resources/js
+ui/src/main/webapp/index.html
+boot/src/main/webapp
